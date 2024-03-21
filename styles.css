@@ -17,6 +17,21 @@ min-height: 100vh;
 .whatsapp{
 bottom: 20px;
 }
+.whatsapp-img{
+    z-index: 3;
+        width: 8%;
+        position: fixed;
+        bottom: 60px;
+        right: 10px;
+      
+}
+@media(max-width:760px){
+    .whatsapp-img{
+   
+        width: 20%;
+      
+}
+}
 
 .logo {
     display: flex;
