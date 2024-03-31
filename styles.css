@@ -446,7 +446,7 @@ footer .map iframe{
     flex-direction: column;
     text-align: center;
     background-color: rgba(0, 0, 0, 0.46);
-    height: 176px;
+    height: 256px;
     width: 528px;
     margin: auto 80px;
     color: aliceblue;
